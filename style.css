@@ -1,0 +1,29 @@
+span{
+    color:red;
+    font-size: 16px;
+
+}
+li img{
+    width: 200px;
+    border-radius: 20px;
+   
+}
+.text_images_and_result{
+    background:white;
+    padding: 30px;
+    border-radius: 20px;
+    width: 50%;
+    display:inline-block;
+    box-shadow: 5px 5px 18px gray;
+    
+}
+b{
+    color:purple;
+  
+}
+.bob3{
+    text-align: center;
+    background: lightslategray;
+    border-radius: 20px;
+    padding: 10px;
+}
